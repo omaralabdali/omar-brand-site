@@ -5,9 +5,9 @@ import { motion, useInView } from "framer-motion";
 
 const SOCIALS = [
   { label: "X / Twitter", href: "https://x.com/omar4aitech" },
-  { label: "LinkedIn", href: "#" },
-  { label: "YouTube", href: "#" },
-  { label: "GitHub", href: "#" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/omar4aitech/" },
+  { label: "Instagram", href: "https://instagram.com/omar4aitech" },
+  { label: "GitHub", href: "https://github.com/omaralabdali" },
 ];
 
 export default function ContactSection() {
@@ -38,7 +38,7 @@ export default function ContactSection() {
               Podcasts, interviews, speaking. I&apos;m open to media inquiries.
             </p>
             <p className="font-display text-sm text-highlight">
-              omar@example.com
+              omar4aitech@gmail.com
             </p>
           </div>
           <div className="bg-surface border border-border rounded-lg p-6">

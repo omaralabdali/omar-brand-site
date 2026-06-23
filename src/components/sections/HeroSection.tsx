@@ -74,9 +74,11 @@ export default function HeroSection() {
             boxShadow: "0 0 0 3px #1a3327, 0 0 60px rgba(57,255,20,0.15)",
           }}
         >
-          <div className="w-full h-full flex items-center justify-center font-display font-bold text-4xl text-highlight">
-            OS
-          </div>
+          <img
+            src="/omar-photo.png"
+            alt="Omar"
+            className="w-full h-full object-cover"
+          />
         </motion.div>
 
         {/* Name */}
